@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "4bbfeabb262f00f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "06c1630358900d85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "034cbf42703e27c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "57c174d12e14ec33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/WildBeyondWitchLight/Chapter 1 - Carnival/Ch1 - S2 - Unfolding - 27 Sep 24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bce0062b65be974d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/WildBeyondWitchLight/Chapter 0 - Setup/Character Creation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec66f886609706f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "941a58099d32069a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3249efca5839087",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d831ace3a425a8fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6ca09c2057fabbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df44332d7d0ace49",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a9dd90fa33d7358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92122c0e54c038c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DnD/WildBeyondWitchLight/Chapter 0 - Setup/Character Creation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b8de557fa781590",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DnD/WildBeyondWitchLight/Chapter 0 - Setup/Character Creation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b99079fe8d00f2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce26fb373b7d21eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DnD/WildBeyondWitchLight/Chapter 0 - Setup/Character Creation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bce0062b65be974d",
+  "lastOpenFiles": [
+    "DnD/WildBeyondWitchLight/Chapter 0 - Setup/Ideas and Inspirations.md",
+    "DnD/WildBeyondWitchLight/Chapter 0 - Setup/Character Creation.md",
+    "DnD/WildBeyondWitchLight/Chapter 1 - Carnival/Ch1 - S3 - Unfolding - 2 Nov 24.md",
+    "DnD/WildBeyondWitchLight/Index.md",
+    "DnD/WildBeyondWitchLight/Chapter 1 - Carnival/Ch1 - S2 - Unfolding - 27 Sep 24.md",
+    "README.md",
+    "DnD/WildBeyondWitchLight/Chapter 0 - Setup",
+    "DnD/WildBeyondWitchLight/Chapter 1 - Carnival",
+    "DnD/WildBeyondWitchLight",
+    "DnD"
+  ]
+}
